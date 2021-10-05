@@ -1,5 +1,6 @@
 {
-  "name": "apartment-cards",
+  "name": "apartment_cards",
+  "homepage": "https://aleksanrdkaradzikov.github.io/apartment_cards",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
